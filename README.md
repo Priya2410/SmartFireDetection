@@ -26,6 +26,10 @@ This is an IoT project , for 'Smart Fire Detection'
 
 ![Circuit Diagram](https://github.com/Priya2410/SmartFireDetection/blob/main/images/cicuit.png)
 
+## HACKSTER.IO LINK
+
+https://www.hackster.io/mohatapriya/smart-fire-detection-with-bolt-iot-module-8ac41e
+
 ## Video Link 
 
 [<img src="images/Video.png"/>](https://youtu.be/Pwqye4vTv1o)
