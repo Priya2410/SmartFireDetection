@@ -24,5 +24,8 @@ This is an IoT project , for 'Smart Fire Detection'
 
 ## Circuit Diagram
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Circuit Diagram](https://github.com/Priya2410/SmartFireDetection/blob/main/images/cicuit.png)
 
+## Video Link 
+
+[<img src="images/Video.png"/>](https://youtu.be/Pwqye4vTv1o)
